@@ -11,51 +11,51 @@ body{
 
 .elemento1{
     width: 200px;
-    background-color: rgb(115, 128, 146);
+    background-color: rgb(255, 8, 214);
     padding: 20px;
     color: rgb(255, 255, 255);
 }
 .elemento2{
     width: 200px;
     grid-column-start: 2;
-    background-color: rgb(115, 128, 146);
+    background-color: rgb(255, 8, 214);
     padding: 20px;
     color: rgb(255, 255, 255);
 }
 .elemento3{
     width: 200px;
     grid-column-start: 3;
-    background-color: rgb(115, 128, 146);
+    background-color: rgb(255, 8, 214);
     padding: 20px;
     color: rgb(255, 255, 255);
 }
 .elemento4{
-    background-color: rgb(115, 128, 146);
+    background-color: rgb(255, 8, 214);
     padding: 20px;
     color: rgb(255, 255, 255);
 }
 .elemento5{
-    background-color: rgb(115, 128, 146);
+    background-color: rgb(255, 8, 214);
     padding: 20px;
     color: rgb(255, 255, 255);
 }
 .elemento6{
-    background-color: rgb(115, 128, 146);
+    background-color: rgb(255, 8, 214);
     padding: 20px;
     color: rgb(255, 255, 255);
 }
 .elemento7{
-    background-color: rgb(115, 128, 146);
+    background-color: rgb(255, 8, 214);
     padding: 20px;
     color: rgb(255, 255, 255);
 }
 .elemento8{
-    background-color: rgb(115, 128, 146);
+    background-color: rgb(255, 8, 214);
     padding: 20px;
     color: rgb(255, 255, 255);
 }
 .elemento9{
-    background-color: rgb(115, 128, 146);
+    background-color: rgb(255, 8, 214);
     padding: 20px;
     color: rgb(255, 255, 255);
 }
